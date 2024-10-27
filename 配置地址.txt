@@ -1,0 +1,3 @@
+clan://localhost/tvbox/hj/hjtv.json
+
+https://9485.kstore.space/hjtv/hjtv.json

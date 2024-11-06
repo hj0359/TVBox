@@ -258,6 +258,17 @@
       "changeable": 1
     },
     {
+              "key": "星芽短剧",
+                    "name": "💻┃星芽┃短剧",
+                          "type": 3,
+                                "api": "csp_AppXY",
+                                      "jar": "https://9485.kstore.space/hj0359/lib/xy.jar",
+                                            "searchable": 1,
+                                                  "quickSearch": 0,
+                                                        "filterable": 0
+    },
+    }
+    {
       "key": "Dm84",
       "name": "🚌巴士┃动漫",
       "type": 3,

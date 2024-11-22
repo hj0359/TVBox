@@ -27,15 +27,6 @@
       }
     },
     {
-      "key": "YGP",
-      "name": "🚀叨观荐影┃新片",
-      "type": 3,
-      "api": "csp_YGP",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
       "key": "alllive",
       "name": "📽️一直播┃LIVE",
       "type": 3,
@@ -53,19 +44,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "UC",
-      "name": "🌈优汐┃搜搜",
-      "type": 3,
-      "api": "csp_UuSs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto"

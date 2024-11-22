@@ -224,20 +224,11 @@
       "ext": "https://www.xb6v.com/"
     },
     {
-      "key": "短剧",
-      "name": "🌈上头┃短剧",
-      "type": 3,
-      "api": "csp_Djtt",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "星芽短剧",
-      "name": "💻星芽┃短剧",
+      "name": "🌈星芽┃短剧",
       "type": 3,
       "api": "csp_AppXY",
-      "jar": "https://9485.kstore.space/hj0359/lib/xy.jar",
+      "jar": "https://gitee.com/hj0359/tv/raw/box/lib/xy.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0

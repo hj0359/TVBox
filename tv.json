@@ -56,8 +56,8 @@
       "name": "🍉┃瓜子┃影视",
       "type": 3,
       "api": "csp_Gz360",
-      "playerType": 2
-      "jar": "https://gitee.com/hj0359/tv/raw/box/jar/fm.txt",
+      "playerType": 2,
+      "jar": "https://gitee.com/hj0359/tv/raw/box/jar/fm.txt"
     },
     {
       "key": "Lib",

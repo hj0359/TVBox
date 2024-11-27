@@ -13,7 +13,7 @@
     },
     {
       "key": "玩偶",
-      "name": "👽玩偶哥哥┃4K弹幕",
+      "name": "👽玩偶┃4K弹幕",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -24,17 +24,40 @@
         "from": "4k|auto",
         "siteUrl": "https://www.wogg.net/",
         "danMu": "弹"
-      }
+    }
     },
     {
-      "key": "alllive",
-      "name": "📽️一直播┃LIVE",
+      "key": "csp_Nongm",
+      "name": "🌾️农民┃影视",
       "type": 3,
-      "api": "csp_Alllive",
-      "playerType": 2,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
+      "api": "csp_Nongm",
+      "jar": "https://gitee.com/hj0359/tv/raw/box/jar/fm.txt",
+      "ext": "https://wwgz.cn"
+    },   
+    {
+      "key": "csp_Qiyou",
+      "name": "🥝奇优┃影视",
+      "type": 3,
+      "api": "csp_Qiyou",
+      "jar": "https://gitee.com/hj0359/tv/raw/box/jar/fm.txt",
+      "ext": "http://www.dyxz2.com/"
+    },
+    {
+      "key": "Ivdy",
+      "name": "💖Ivdy┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitee.com/hj0359/tv/raw/box/jar/fm.txt",
+      "ext": "https://gitee.com/hj0359/tv/raw/box/lib/Ivdy",
+      "searchable": 0
+    },
+    {
+      "key": "csp_Gz360",
+      "name": "🍉┃瓜子┃影视",
+      "type": 3,
+      "api": "csp_Gz360",
+      "playerType": 2
+      "jar": "https://gitee.com/hj0359/tv/raw/box/jar/fm.txt",
     },
     {
       "key": "Lib",
@@ -232,6 +255,17 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
+    },
+    {
+      "key": "天堂短剧",
+      "name": "🌼短剧┃天堂",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/hj0359/tv/raw/box/jar/duanju.jar",
+      "ext": "https://gitee.com/hj0359/tv/raw/box/lib/%E7%9F%AD%E5%89%A7%E5%A4%A9%E5%A0%82.json"
     },
     {
       "key": "Dm84",

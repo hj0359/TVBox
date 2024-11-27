@@ -267,6 +267,50 @@
       "jar": "https://gitee.com/hj0359/tv/raw/box/jar/duanju.jar",
       "ext": "https://gitee.com/hj0359/tv/raw/box/lib/%E7%9F%AD%E5%89%A7%E5%A4%A9%E5%A0%82.json"
     },
+        {
+      "key": "csp_Bili短剧",
+      "name": "🐞哔哩┃短剧",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "jar": "https://gitee.com/hj0359/tv/raw/box/jar/xyq.jar",
+      "ext": "https://gitee.com/hj0359/tv/raw/box/lib/Bili%E7%9F%AD%E5%89%A7.json"
+    },
+    {
+      "key": "csp_XYQHiker_爱你短剧",
+      "name": "🤪爱你┃短剧",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/hj0359/tv/raw/box/jar/xyq.jar",
+      "ext": "https://gitee.com/hj0359/tv/raw/box/lib/%E7%88%B1%E4%BD%A0%E7%9F%AD%E5%89%A7.json"
+    },
+    {
+      "key": "csp_XYQHiker_河马短剧",
+      "name": "😛河马┃短剧",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/hj0359/tv/raw/box/jar/xyq.jar",
+      "ext": "https://gitee.com/hj0359/tv/raw/box/lib/%E6%B2%B3%E9%A9%AC%E7%9F%AD%E5%89%A7.json"
+    },
+    {
+      "key": "csp_XYQHiker_短剧屋",
+      "name": "🐱短剧┃屋",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/hj0359/tv/raw/box/jar/xyq.jar",
+      "ext": "https://gitee.com/hj0359/tv/raw/box/lib/%E7%9F%AD%E5%89%A7%E5%B1%8B.json"
+    },
     {
       "key": "Dm84",
       "name": "🚌巴士┃动漫",

@@ -301,17 +301,6 @@
       "ext": "https://gitee.com/hj0359/tv/raw/box/lib/%E6%B2%B3%E9%A9%AC%E7%9F%AD%E5%89%A7.json"
     },
     {
-      "key": "csp_XYQHiker_短剧屋",
-      "name": "🐱短剧┃屋",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://gitee.com/hj0359/tv/raw/box/jar/xyq.jar",
-      "ext": "https://gitee.com/hj0359/tv/raw/box/lib/%E7%9F%AD%E5%89%A7%E5%B1%8B.json"
-    },
-    {
       "key": "Dm84",
       "name": "🚌巴士┃动漫",
       "type": 3,
